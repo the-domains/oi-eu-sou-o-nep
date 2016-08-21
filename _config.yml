@@ -23,5 +23,8 @@ navigation:
   - name: Twitter
     url: www.twitter.com/rafaelnepo
     type: external
+  - name: Facebook
+    url: fb.com/rafaelnepo.me
+    type: external
 title: 'Oi, eu sou o Nepô!'
 description: 'Games, Design & Education'
