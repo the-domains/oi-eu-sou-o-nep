@@ -1,4 +1,3 @@
-layout_spectrum: 0.3841551151126623
 typography_spectrum: 0.2923720027320087
 color:
   brandStrength: 0.3276069366838783
@@ -6,9 +5,11 @@ color:
   saturation: 0.9489243566058576
   rhythmicContrast: 0.1374031773302704
   brandColors:
-    - '#FF5335'
-    - '#B39C85'
-    - '#306E73'
-    - '#3B424D'
-    - '#1D181F'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.3841551151126623
 name: 'Oi, eu sou o Nepô!'
+title: 'Oi, eu sou o Nepô!'
