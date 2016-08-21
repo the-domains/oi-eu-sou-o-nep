@@ -4,21 +4,14 @@
         <description><![CDATA[Oi, eu sou o Nepô!]]></description>
         <link>https://thegrid.ai/oi-eu-sou-o-nep/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 20:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 20:35:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oi-eu-sou-o-nep/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Table of Contents | Atomic Design by Brad Frost]]></title>
-            <description><![CDATA[<article><h1>Table of Contents | Atomic Design by Brad Frost</h1><p>Atomic design is a methodology for crafting effective design systems</p><img src="http://atomicdesign.bradfrost.com/images/book-cover-thumb.png/images/book-cover-thumb.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Table of Contents | Atomic Design by Brad Frost</h1><p>Atomic design is a methodology for crafting effective design systems</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/397c53336c4c8a8a7fad06aeeaa493ee/noop.png?input=http%3A%2F%2Fweb.archive.org%2Fweb%2F20150818084020%2Fhttp%3A%2F%2Fatomicdesign.bradfrost.com%2Fimages%2Fbook-cover-thumb.png%2Fimages%2Fbook-cover-thumb.png"></article>]]></description>
             <link>http://atomicdesign.bradfrost.com/table-of-contents/</link>
             <guid isPermaLink="false">47a3deaa-3e32-4098-9e2b-2004497d9173</guid>
             <pubDate>Sat, 20 Aug 2016 20:34:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google May Have Found a Way to Make the Real-World Web Work]]></title>
-            <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/04/google-beacon-security-eddystone/</link>
-            <guid isPermaLink="false">1106ecb1-a9ba-4dbc-b6b6-13896a0cca2e</guid>
-            <pubDate>Sat, 20 Aug 2016 20:12:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
