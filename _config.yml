@@ -1,30 +1,14 @@
-typography_spectrum: 0.6385080742184073
+layout_spectrum: 0.3841551151126623
+typography_spectrum: 0.2923720027320087
 color:
-  brandStrength: 0.29466053401120007
-  lightness: 0.6649795768316835
-  saturation: 0.6348967328667641
-  rhythmicContrast: 0.20808787876740098
+  brandStrength: 0.3276069366838783
+  lightness: 0.8202438615262508
+  saturation: 0.9489243566058576
+  rhythmicContrast: 0.1374031773302704
   brandColors:
-    - '#222222'
-    - '#EEEEEE'
-    - '#F0C331'
-    - '#5D6471'
-    - '#888D96'
-layout_spectrum: 0.2436345205642283
-author:
-  name: Rafael Nepô
-  email: rafaelncosta@gmail.com
-  url: www.rafaelnepo.com
-name: Canal do Nepô
-navigation:
-  - name: Website
-    url: www.rafaelnepo.com
-    type: external
-  - name: Twitter
-    url: www.twitter.com/rafaelnepo
-    type: external
-  - name: Facebook
-    url: fb.com/rafaelnepo.me
-    type: external
-title: 'Oi, eu sou o Nepô!'
-description: 'Games, Design & Education'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: 'Oi, eu sou o Nepô!'
