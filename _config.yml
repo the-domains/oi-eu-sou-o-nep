@@ -16,5 +16,9 @@ author:
   email: rafaelncosta@gmail.com
   url: www.rafaelnepo.com
 name: Canal do Nepô
+navigation:
+  - name: Rafael Nepô
+    url: www.rafaelnepo.com
+    type: external
 title: 'Oi, eu sou o Nepô!'
 description: 'Games, Design & Education'
