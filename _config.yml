@@ -11,6 +11,10 @@ color:
     - '#2667FF'
     - '#3B28CC'
 layout_spectrum: 0.3841551151126623
-name: 'Oi, eu sou o Nepô!'
+author:
+  name: Rafael Nepô
+  email: rafaelncosta@gmail.com
+  url: www.rafaelnepo.com
+name: Canal do Nepô
 title: 'Oi, eu sou o Nepô!'
 description: 'Games, Design & Education'
