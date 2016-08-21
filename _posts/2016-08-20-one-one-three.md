@@ -1,15 +1,15 @@
 ---
-description: I spend my working life helping other people work smarter.
-dateModified: '2016-08-20T20:41:15.378Z'
-datePublished: '2016-08-20T20:41:18.522Z'
-title: One + One = Three
+datePublished: '2016-08-20T20:41:42.744Z'
+sourcePath: _posts/2016-08-20-one-one-three.md
 author: []
+via: {}
+dateModified: '2016-08-20T20:41:42.101Z'
+title: One + One = Three
 publisher:
   name: designyourlife.com.au
   url: 'http://designyourlife.com.au/'
-via: {}
+description: I spend my working life helping other people work smarter.
 starred: false
-sourcePath: _posts/2016-08-20-one-one-three.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -27,7 +27,6 @@ Every day my team and I enter organisations, identify problems and find solution
 For the past 25 years, I have always been designing. I've built a thriving practice, amassed an enviable number of accolades and earned the respect of my peers not to mention numerous repeat clients. By all measures, I am a success.
 
 _But for years my private life was a mess. I was helping people work smarter. But I did not know how to live smarter. I was designing and redesigning everything but me._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9091790-710e-418e-b2c6-7707b0764170.jpg)
 
 It wasn't a moment of revelation so much as evolution. I can't say when it happened but it seems I hired me to help myself live better by living smarter. I began applying my principles of design to my own life. And I found my flow: I am more reflective, more alive to my senses, more in touch with the people in my life and more aware of my value. In short, I am happier.
 
