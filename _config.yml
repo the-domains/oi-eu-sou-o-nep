@@ -1,4 +1,3 @@
-layout_spectrum: 0.2436345205642283
 typography_spectrum: 0.6385080742184073
 color:
   brandStrength: 0.29466053401120007
@@ -11,6 +10,7 @@ color:
     - '#F0C331'
     - '#5D6471'
     - '#888D96'
+layout_spectrum: 0.2436345205642283
 author:
   name: Rafael Nepô
   email: rafaelncosta@gmail.com
